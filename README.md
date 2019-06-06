@@ -3,7 +3,7 @@
 # It allows users to search for temperatures all around the world
 
 <img src="https://user-images.githubusercontent.com/38442554/59021094-09f5ec00-8800-11e9-8e4e-d8c74189c7dd.PNG" width="400px">
-![2](https://user-images.githubusercontent.com/38442554/59021094-09f5ec00-8800-11e9-8e4e-d8c74189c7dd.PNG | width=400)
+
 
 # Technologies used
 1. HTML5
