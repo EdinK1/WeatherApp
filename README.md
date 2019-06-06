@@ -3,8 +3,8 @@
 # It allows users to search for temperatures all around the world
 
 <div float="left">
-<img margin-right="10px" src="https://user-images.githubusercontent.com/38442554/59021094-09f5ec00-8800-11e9-8e4e-d8c74189c7dd.PNG" width="400px" height="300px">
-<img src="https://user-images.githubusercontent.com/38442554/59020949-cb603180-87ff-11e9-8152-c14d0bf56ba8.PNG" width="400px">
+<img padding-right="10px" src="https://user-images.githubusercontent.com/38442554/59021094-09f5ec00-8800-11e9-8e4e-d8c74189c7dd.PNG" width="400px" height="300px">
+<img src="https://user-images.githubusercontent.com/38442554/59020949-cb603180-87ff-11e9-8152-c14d0bf56ba8.PNG" width="400px" height="300px">
 </div>
 
 # Technologies used
