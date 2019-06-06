@@ -2,6 +2,9 @@
 
 # It allows users to search for temperatures all around the world
 
+![1](https://user-images.githubusercontent.com/38442554/59020949-cb603180-87ff-11e9-8152-c14d0bf56ba8.PNG)
+
+
 # Technologies used
 1. HTML5
 2. Bootstrap
