@@ -14,4 +14,4 @@
 
 # My notes about the project
 
-I've seen a lot of tutorials of people creating weather apps with frameworks so I went ahead and tried implementing that with plain vanilla Javascript. Overall it was a nice project to work on.
+I've seen a lot of tutorials of people creating weather apps with frameworks so I went ahead and tried implementing that with plain vanilla Javascript. Overall, it was a nice project to work on.
